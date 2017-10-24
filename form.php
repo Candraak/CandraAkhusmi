@@ -27,7 +27,7 @@
 
 	<div class="content">
 		<form action="kirim.php" method="POST">
-			<Input type="Email" name="email" id="email" placeholder="Email"><br>
+			<Input type="email" name="email" id="email" placeholder="Email"><br>
 			<Input type="text" name="fullname" id="fullname" placeholder="Fullname"><br>
 			<Input type="text" name="user" id="user" placeholder="Username"><br>
 			<Input type="password" name="pw" id="pw" placeholder="Password"><br>
